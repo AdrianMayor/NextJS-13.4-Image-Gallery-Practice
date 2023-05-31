@@ -1,4 +1,4 @@
-# Next.JS 13.4 Image Gallery (Tutorial Project)
+# Next.JS 13.4 Image Gallery Practice Project
 
 This project showcases all important **features & caching strategies** of the new Next.js **app router**. 
 
